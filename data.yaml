@@ -1,0 +1,10 @@
+# train: datasets/dataset/train/images
+# val: datasets/dataset/valid/images
+# test: datasets/dataset/test/images
+
+train: C:\\Users\\pooja\\Logo-Detection\\datasets\\dataset\\train\\images
+val: C:\\Users\\pooja\\Logo-Detection\\datasets\\dataset\\valid\\images
+test: C:\\Users\\pooja\\Logo-Detection\\datasets\\dataset\\test\\images
+
+nc: 2
+names: ['cocacola', 'pepsico']
